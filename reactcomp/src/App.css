@@ -1,0 +1,10 @@
+.paren{
+  display: flex;
+  justify-content: space-around;
+background-color: cornflowerblue;
+
+}
+img{
+  height: 621px ;
+  width: 320px;
+}
